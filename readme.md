@@ -58,13 +58,11 @@ This implementation does not include error checking for user inputs. Users are a
 
 ---
 
-## Project Details
+## Resources
 
 - **Bootcamp:** OSU-VIRT-AI-PT
 - **Module:** 3
 - **Challenge Files Version:** 1.0
 - **Programming Language:** Python
 - **Date:** November 2024
-
-### Resources
 - **Bootcamp Portal:** [OSU Bootcamp](https://bootcampspot.instructure.com/calendar#view_name=month&view_start=2024-12-02:~:text=Background,3%20Challenge%20files)
